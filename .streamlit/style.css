@@ -1,0 +1,40 @@
+
+.stButton>button {
+    border-radius: 10px;
+    background-color: #1E90FF;
+    color: white;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #104E8B;
+}
+
+.stSelectbox, .stNumberInput {
+    background-color: #F0F2F6;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+h1, h2, h3 {
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+}
+
+.stMetric {
+    background-color: #E6F3FF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Improve sidebar styling */
+.css-1d391kg {
+    background-color: #F0F2F6;
+}
+
+/* Enhance tab styling */
+.stTabs [role="tab"] {
+    font-weight: bold;
+    color: #1E90FF;
+}
